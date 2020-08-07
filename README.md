@@ -1,1 +1,1 @@
-demo: https://listennn08.github.io/hexschool/week7/
+demo: https://listennn08.github.io/GAGU-Backend
